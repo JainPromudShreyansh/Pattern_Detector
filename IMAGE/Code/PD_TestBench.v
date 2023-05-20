@@ -1,4 +1,4 @@
-`include "design.v"
+`include "Pattern_Detector_Design.v"
 
 module tb;
 parameter S_RST=3'b000;
