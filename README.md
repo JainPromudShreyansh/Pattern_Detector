@@ -9,4 +9,5 @@ Mealy Machine is defined as a machine in the theory of computation whose output 
 __Note:__
 - This repository contains RTL code (verilog based) for a *Moore Based Pattern Detector*:detecting a pattern(Bike->Bike->Car->Bike->Car).
 
+![FSM_IMAGE](./IMAGE/FSM.png)
 - ModelSim-Intel® FPGAs Standard Edition Software Version 18.1 used to exxecute these code.
